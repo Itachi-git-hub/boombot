@@ -1,1 +1,1 @@
-worker: python bot_spike.py
+python bot_spike.py
